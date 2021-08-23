@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="login">دُخول</string>
+    <string name="phone">هاتف</string>
+    <string name="password">كلمه السر</string>
+
+    <string name="loading">جار التحميل</string>
+
+    <string name="arabic">عربي</string>
+    <string name="english">English</string>
+
+    <string name="en">En</string>
+    <string name="ar">عر</string>
+
+    <string name="please_enter_mobile_number">الرجاء إدخال رقم هاتفك المحمول</string>
+    <string name="please_enter_password">من فضلك أدخل رقمك السري</string>
+    <string name="login_success">تم تسجيل الدخول بنجاح</string>
+</resources>
